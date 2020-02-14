@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body {
+    color:#fff;
+    font:14px/1.3 Arial,sans-serif;
+}
+
+#offscreen_canvas {
+   display: none;
+	height: 700px;
+  	width: 100%;
+}
+
+.full-height { 
+    width:100%;
+}
+
+.stacked {
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+

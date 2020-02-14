@@ -1,0 +1,1037 @@
+﻿<poema created="1222717076">
+
+	<texto verso=" mild, mild, mild" ordem="1,2,3" taxon="cat191,cat191,cat19"></texto>
+	<texto verso=" a_mild wind passes" ordem="1,2,3" taxon="cat20,cat4,cat18"></texto>
+	<texto verso="      as a_motivation" ordem="2" taxon="cat1" />
+	<texto verso="" ordem="" taxon="" />
+	<texto verso=" an_opaque transcription of the referent" ordem="1,2,5" taxon="cat2,cat3,cat4" />
+	<texto verso=" an_obscure and subtle adagio" ordem="1,3,4" taxon="cat2,cat5,cat4" />
+	<texto verso=" in the middle of the road: " ordem="3,6" taxon="cat6,cat6m" />
+	<texto verso="      to embrace" ordem="2" taxon="cat7" />
+	<texto verso="" ordem="" taxon="" />
+	<texto verso=" an_obscure and subtle adagio" ordem="1,3,4" taxon="cat2,cat5,cat4" />
+	<texto verso=" where living is - " ordem="2" taxon="cat8"></texto>
+	<texto verso=" a_pale sketch of rain" ordem="1,2,4" taxon="cat9,cat10,cat11"></texto>
+	<texto verso="      in my naked face" ordem="2,3,4" taxon="cat12,cat13,cat111"></texto>
+	<texto verso="" ordem="" taxon="" />
+	<texto verso=" mild, mild, mild" ordem="1,2,3" taxon="cat191,cat191,cat19"></texto>
+	<texto verso=" a_mild wind passes" ordem="1,2,3" taxon="cat20,cat4,cat18"></texto>
+	<texto verso="      always mild" ordem="2" taxon="cat19"></texto>
+	<texto verso=" against the army of men" ordem="3,5" taxon="cat14,cat15" />
+	<texto verso=" withering with the green" ordem="1,4" taxon="cat16,cat17" />
+	<texto verso=" a_mild wind passes" ordem="1,2,3" taxon="cat20,cat4,cat18"></texto>
+	<texto verso=" and leaves" ordem="2" taxon="cat18"></texto>
+	<texto verso="      always mild" ordem="2" taxon="cat19"></texto>
+	<texto verso="" ordem="" taxon=""></texto>
+
+<categorias>
+<cat1>
+<frase>an_abandonment</frase>
+<frase>an_adage</frase>
+<frase>an_addiction</frase>
+<frase>an_algorithm</frase>
+<frase>an_angle</frase>
+<frase>an_antagonism</frase>
+<frase>an_aphorism</frase>
+<frase>an_axis</frase>
+<frase>a_balance</frase>
+<frase>a_birth</frase>
+<frase>a_boost</frase>
+<frase>a_brake</frase>
+<frase>a_breath</frase>
+<frase>a_call</frase>
+<frase>a_challenge</frase>
+<frase>a_charm</frase>
+<frase>a_circle</frase>
+<frase>a_clipping</frase>
+<frase>a_concept</frase>
+<frase>a_country</frase>
+<frase>a_cry</frase>
+<frase>a_desert</frase>
+<frase>a_destination</frase>
+<frase>a_disguise</frase>
+<frase>a_dogma</frase>
+<frase>a_dream </frase>
+<frase>an_echo</frase>
+<frase>an_enchantment</frase>
+<frase>an_engine</frase>
+<frase>a_flash</frase>
+<frase>a_gesture</frase>
+<frase>a_kiss</frase>
+<frase>a_mechanism</frase>
+<frase>a_mismatch</frase>
+<frase>a_name</frase>
+<frase>a_noise</frase>
+<frase>an_obstacle</frase>
+<frase>an_ornament</frase>
+<frase>an_outline</frase>
+<frase>a_perfume</frase>
+<frase>a_picture</frase>
+<frase>a_poem</frase>
+<frase>a_profile</frase>
+<frase>a_prop</frase>
+<frase>a_punishment</frase>
+<frase>a_puzzle</frase>
+<frase>a_report</frase>
+<frase>a_rumor</frase>
+<frase>a_secret</frase>
+<frase>a_sin</frase>
+<frase>a_song</frase>
+<frase>a_sound</frase>
+<frase>a_space</frase>
+<frase>a_splendor</frase>
+<frase>a_surprise</frase>
+<frase>a_theorem</frase>
+<frase>a_time</frase>
+<frase>a_trail</frase>
+<frase>an_uproar</frase>
+<frase>a_veil</frase>
+<frase>a_whisper</frase>
+</cat1>
+<cat4>
+<frase>prop</frase>
+<frase>ornament</frase>
+<frase>aphorism</frase>
+<frase>algorithm</frase>
+<frase>antagonism</frase>
+<frase>concept</frase>
+<frase>outline</frase>
+<frase>dogma</frase>
+<frase>puzzle</frase>
+<frase>obstacle</frase>
+<frase>gesture</frase>
+<frase>mechanism</frase>
+<frase>rumor</frase>
+<frase>whisper</frase>
+<frase>theorem</frase>
+<frase>vortex</frase>
+<frase>breath</frase>
+<frase>song</frase>
+<frase>punishment</frase>
+<frase>circle</frase>
+<frase>challenge</frase>
+<frase>desert</frase>
+<frase>destination</frase>
+<frase>disguise</frase>
+<frase>echo</frase>
+<frase>enchantment</frase>
+<frase>engine</frase>
+<frase>balance</frase>
+<frase>surprise</frase>
+<frase>splendor</frase>
+<frase>fervor</frase>
+<frase>gesture</frase>
+<frase>horizon</frase>
+<frase>name</frase>
+<frase>sin</frase>
+<frase>perfume</frase>
+<frase>poem</frase>
+<frase>report</frase>
+<frase>picture</frase>
+<frase>noise</frase>
+<frase>rumor</frase>
+<frase>sound</frase>
+<frase>dream </frase>
+<frase>whisper</frase>
+</cat4>
+<cat3>
+<frase>opening</frase>
+<frase>abstraction</frase>
+<frase>absence</frase>
+<frase>discipline</frase>
+<frase>epiphany</frase>
+<frase>writing</frase>
+<frase>evidence</frase>
+<frase>fallacy</frase>
+<frase>fantasy</frase>
+<frase>fissure</frase>
+<frase>formula</frase>
+<frase>grammar</frase>
+<frase>hypothesis</frase>
+<frase>mnemonic</frase>
+<frase>obedience</frase>
+<frase>originality</frase>
+<frase>periphery</frase>
+<frase>vanguard</frase>
+<frase>variation</frase>
+<frase>lust</frase>
+<frase>trap</frase>
+<frase>architecture</frase>
+<frase>conquest</frase>
+<frase>intention</frase>
+<frase>freedom</frase>
+<frase>language</frase>
+<frase>literature</frase>
+<frase>logic</frase>
+<frase>madness</frase>
+<frase>melody</frase>
+<frase>syllable</frase>
+<frase>synthesis</frase>
+<frase>confession</frase>
+<frase>dissolution</frase>
+<frase>wandering</frase>
+<frase>immanence</frase>
+<frase>nostalgia</frase>
+<frase>redemption</frase>
+<frase>vocation</frase>
+</cat3>
+<cat5>
+<frase>abrupt</frase>
+<frase>absurd</frase>
+<frase>ambitious</frase>
+<frase>ancestor</frase>
+<frase>indigenous</frase>
+<frase>centrifugal</frase>
+<frase>ephemeral</frase>
+<frase>epic</frase>
+<frase>epistular</frase>
+<frase>sterile</frase>
+<frase>skilled</frase>
+<frase>unlikely</frase>
+<frase>unprecedented</frase>
+<frase>intense</frase>
+<frase>linear</frase>
+<frase>neutral</frase>
+<frase>obscure</frase>
+<frase>opaque</frase>
+<frase>premature</frase>
+<frase>representative</frase>
+<frase>subtle</frase>
+<frase>tacit</frase>
+<frase>virtual</frase>
+<frase>visual</frase>
+<frase>vital</frase>
+<frase>ambiguous</frase>
+<frase>limited</frase>
+<frase>concrete</frase>
+<frase>dispersed</frase>
+<frase>dual</frase>
+<frase>elementary</frase>
+<frase>evanescent</frase>
+<frase>excessive</frase>
+<frase>unspeakable</frase>
+<frase>inflexible</frase>
+<frase>intangible</frase>
+<frase>unreal</frase>
+<frase>linear</frase>
+<frase>hidden</frase>
+<frase>ordered</frase>
+<frase>peculiar</frase>
+<frase>prodigal</frase>
+<frase>prophetic</frase>
+<frase>rational</frase>
+<frase>secret</frase>
+<frase>silent</frase>
+<frase>transparent</frase>
+</cat5>
+<cat2>
+<frase>an_abrupt</frase>
+<frase>an_absorbed</frase>
+<frase>an_absurd</frase>
+<frase>an_ambitious</frase>
+<frase>an_analog</frase>
+<frase>an_indigenous</frase>
+<frase>an_autodidact</frase>
+<frase>a_centrifugal</frase>
+<frase>a_coeval</frase>
+<frase>an_ephemeral</frase>
+<frase>an_epic</frase>
+<frase>an_epistular</frase>
+<frase>an_eruptive</frase>
+<frase>a_sterile</frase>
+<frase>a_skilled</frase>
+<frase>an_unlikely</frase>
+<frase>an_unprecedented</frase>
+<frase>an_intense</frase>
+<frase>a_labyrinthine</frase>
+<frase>a_linear</frase>
+<frase>a_cloudy</frase>
+<frase>a_neutral</frase>
+<frase>an_obscure</frase>
+<frase>an_opaque</frase>
+<frase>a_perpetual</frase>
+<frase>an_insightful</frase>
+<frase>a_premature</frase>
+<frase>a_relevant</frase>
+<frase>a_subtle</frase>
+<frase>a_tacit</frase>
+<frase>a_virtual</frase>
+<frase>a_visual</frase>
+<frase>a_vital</frase>
+<frase>an_ambiguous</frase>
+<frase>a_baroque</frase>
+<frase>a_limited</frase>
+<frase>a_concrete</frase>
+<frase>a_definitive</frase>
+<frase>a_dispersed</frase>
+<frase>a_dual</frase>
+<frase>an_elementary</frase>
+<frase>an_evanescent</frase>
+<frase>an_excessive</frase>
+<frase>a_floating</frase>
+<frase>an_unspeakable</frase>
+<frase>an_inflexible</frase>
+<frase>an_intangible</frase>
+<frase>an_unreal</frase>
+<frase>a_linear</frase>
+<frase>an_ordered</frase>
+<frase>a_peculiar</frase>
+<frase>a_full</frase>
+<frase>a_prodigal</frase>
+<frase>a_prophetic</frase>
+<frase>a_rational</frase>
+<frase>a_strict</frase>
+<frase>a_secret</frase>
+<frase>a_silent</frase>
+<frase>a_transparent</frase>
+<frase>a_digital</frase>
+<frase>an_emancipated</frase>
+<frase>an_excessive</frase>
+<frase>an_experimental</frase>
+<frase>a_fictional</frase>
+<frase>a_fleeting</frase>
+<frase>a_futuristic</frase>
+<frase>a_vocal</frase>
+<frase>a_baroque</frase>
+<frase>a_circular</frase>
+<frase>a_concrete</frase>
+<frase>a_dense</frase>
+<frase>a_displaced</frase>
+<frase>an_intense</frase>
+<frase>a_lunar</frase>
+<frase>a_meticulous</frase>
+<frase>a_mysterious</frase>
+<frase>an_obscure</frase>
+<frase>a_solar</frase>
+<frase>an_universal</frase>
+<frase>a_vital</frase>
+</cat2>
+<cat7>
+<frase>imagine</frase>
+<frase>murmur</frase>
+<frase>deny</frase>
+<frase>break</frase>
+<frase>breathe</frase>
+<frase>dream </frase>
+<frase>vibrate</frase>
+<frase>shout</frase>
+</cat7>
+<cat6>
+<frase>beginning</frase>
+<frase>middle</frase>
+<frase>end</frase>
+<frase>side</frase>
+</cat6>
+<cat6m>
+<frase>road:</frase>
+<frase>text:</frase>
+<frase>paragraph:</frase>
+<frase>program:</frase>
+<frase>poem:</frase>
+<frase>prose:</frase>
+<frase>path:</frase>
+<frase>highway:</frase>
+<frase>web:</frase>
+</cat6m>
+<cat12>
+   <frase>my</frase>
+   <frase>your</frase>
+   <frase>their</frase>
+   <frase>our</frase>
+</cat12>
+<cat13>
+   <frase>abandoned</frase>
+   <frase>open</frase>
+   <frase>absorbed</frase>
+   <frase>abstract</frase>
+   <frase>absurd</frase>
+   <frase>acid</frase>
+   <frase>postponed</frase>
+   <frase>diseased</frase>
+   <frase>lucky</frase>
+   <frase>winged</frase>
+   <frase>algid</frase>
+   <frase>proud</frase>
+   <frase>yellow</frase>
+   <frase>distressed</frase>
+   <frase>ancient</frase>
+   <frase>deleted</frase>
+   <frase>Apollonian</frase>
+   <frase>burning</frase>
+   <frase>arrogant</frase>
+   <frase>careful</frase>
+   <frase>amazed</frase>
+   <frase>tormented</frase>
+   <frase>atrocious</frase>
+   <frase>white</frase>
+   <frase>soft</frase>
+   <frase>bright</frase>
+   <frase>warm</frase>
+   <frase>staggering</frase>
+   <frase>tired</frase>
+   <frase>blind</frase>
+   <frase>closed</frase>
+   <frase>girded</frase>
+   <frase>circular</frase>
+   <frase>clear</frase>
+   <frase>confused</frase>
+   <frase>curious</frase>
+   <frase>curved</frase>
+   <frase>degenerate</frase>
+   <frase>unknown</frase>
+   <frase>desert</frase>
+   <frase>desolate</frase>
+   <frase>naked</frase>
+   <frase>diagonal</frase>
+   <frase>diffuse</frase>
+   <frase>dispersed</frase>
+   <frase>distracted</frase>
+   <frase>docile</frase>
+   <frase>sick</frase>
+   <frase>dormant</frase>
+   <frase>drunk</frase>
+   <frase>aged</frase>
+   <frase>sterile</frase>
+   <frase>ethereal</frase>
+   <frase>excessive</frase>
+   <frase>female</frase>
+   <frase>fictional</frase>
+   <frase>feigned</frase>
+   <frase>fragile</frase>
+   <frase>cold</frase>
+   <frase>horizontal</frase>
+   <frase>wet</frase>
+   <frase>unreadable</frase>
+   <frase>deluded</frase>
+   <frase>imaginary</frase>
+   <frase>impatient</frase>
+   <frase>elusive</frase>
+   <frase>impenetrable</frase>
+   <frase>inaccurate</frase>
+   <frase>unknown</frase>
+   <frase>undecided</frase>
+   <frase>inert</frase>
+   <frase>slow</frase>
+   <frase>light</frase>
+   <frase>slight</frase>
+   <frase>livid</frase>
+   <frase>lucid</frase>
+   <frase>soft</frase>
+   <frase>oblique</frase>
+   <frase>hidden</frase>
+   <frase>pale</frase>
+   <frase>disturbed</frase>
+   <frase>silent</frase>
+   <frase>sleepy</frase>
+   <frase>submissive</frase>
+   <frase>shy</frase>
+   <frase>trembling</frase>
+   <frase>veiled</frase>
+   <frase>dizzying</frase>
+   <frase>vigilant</frase>
+</cat13>
+<cat8>
+   <frase>shaking</frase>
+   <frase>waking</frase>
+   <frase>burning</frase>
+   <frase>falling</frase>
+   <frase>walking</frase>
+   <frase>ceasing</frase>
+   <frase>coming</frase>
+   <frase>beginning</frase>
+   <frase>growing</frase>
+   <frase>fulfilling</frase>
+   <frase>disappearing</frase>
+   <frase>dissolving</frase>
+   <frase>sleeping</frase>
+   <frase>echoing</frase>
+   <frase>being</frase>
+   <frase>pretending</frase>
+   <frase>fleeing</frase>
+   <frase>screaming</frase>
+   <frase>grinding</frase>
+   <frase>dying</frase>
+   <frase>changing</frase>
+   <frase>obeying</frase>
+   <frase>losing</frase>
+   <frase>burning</frase>
+   <frase>fidgeting</frase>
+   <frase>repeating</frase>
+   <frase>raising</frase>
+   <frase>suffering</frase>
+   <frase>vomiting</frase>
+</cat8>
+<cat11>
+   <frase>distress</frase>
+   <frase>joy</frase>
+   <frase>anxiety</frase>
+   <frase>craving</frase>
+   <frase>beauty</frase>
+   <frase>flesh</frase>
+   <frase>city</frase>
+   <frase>cholera</frase>
+   <frase>disgrace</frase>
+   <frase>pain</frase>
+   <frase>eternity</frase>
+   <frase>existence</frase>
+   <frase>happiness</frase>
+   <frase>humanity</frase>
+   <frase>ignorance</frase>
+   <frase>illusion</frase>
+   <frase>infamy</frase>
+   <frase>innocence</frase>
+   <frase>envy</frase>
+   <frase>madness</frase>
+   <frase>light</frase>
+   <frase>misery</frase>
+   <frase>death</frase>
+   <frase>night</frase>
+   <frase>pity</frase>
+   <frase>poverty</frase>
+   <frase>spring</frase>
+   <frase>reality</frase>
+   <frase>shadow</frase>
+   <frase>storm</frase>
+   <frase>darkness</frase>
+   <frase>age</frase>
+   <frase>life</frase>
+</cat11>
+<cat111>
+   <frase>soul</frase>
+   <frase>anxiety</frase>
+   <frase>appearance</frase>
+   <frase>mouth</frase>
+   <frase>head</frase>
+   <frase>face</frase>
+   <frase>flesh</frase>
+   <frase>city</frase>
+   <frase>consciousness</frase>
+   <frase>disgrace</frase>
+   <frase>pain</frase>
+   <frase>existence</frase>
+   <frase>figure</frase>
+   <frase>humanity</frase>
+   <frase>illusion</frase>
+   <frase>freedom</frase>
+   <frase>madness</frase>
+   <frase>hand</frase>
+   <frase>mask</frase>
+   <frase>skin</frase>
+   <frase>shadow</frase>
+   <frase>voice</frase>
+   <frase>life</frase>
+</cat111>
+<cat9>
+   <frase>a_bitter</frase>
+   <frase>a_deleted</frase>
+   <frase>an_artificial</frase>
+   <frase>a_draft</frase>
+   <frase>a_rotten</frase>
+   <frase>a_disconnected</frase>
+   <frase>a_dispersed</frase>
+   <frase>a_painful</frase>
+   <frase>a_wrinkled</frase>
+   <frase>a_dazed</frase>
+   <frase>a_closed</frase>
+   <frase>an_hesitant</frase>
+   <frase>an_humble</frase>
+   <frase>a_slow</frase>
+   <frase>a_magnetic</frase>
+   <frase>a_tiny</frase>
+   <frase>a_mysterious</frase>
+   <frase>a_clear</frase>
+   <frase>an_hidden</frase>
+   <frase>a_secret</frase>
+   <frase>a_submissive</frase>
+   <frase>a_numb</frase>
+   <frase>a_cloudy</frase>
+</cat9>
+<cat10>
+   <frase>love</frase>
+   <frase>breath</frase>
+   <frase>mold</frase>
+   <frase>scenario</frase>
+   <frase>smell</frase>
+   <frase>cry</frase>
+   <frase>crime</frase>
+   <frase>surprise</frase>
+   <frase>gesture</frase>
+   <frase>fear</frase>
+   <frase>mystery</frase>
+   <frase>sketch</frase>
+   <frase>name</frase>
+   <frase>thought</frase>
+   <frase>weight</frase>
+   <frase>laughter</frase>
+   <frase>rumor</frase>
+   <frase>flavor</frase>
+   <frase>blood</frase>
+   <frase>silence</frase>
+   <frase>sound</frase>
+</cat10>
+<cat14>
+<frase>antagonism</frase>
+<frase>dialect</frase>
+<frase>dogma</frase>
+<frase>genius</frase>
+<frase>momentum</frase>
+<frase>rumor</frase>
+<frase>secrecy</frase>
+<frase>talent</frase>
+<frase>uproar</frase>
+<frase>punishment</frase>
+<frase>confrontation</frase>
+<frase>living</frase>
+<frase>destination</frase>
+<frase>enchantment</frase>
+<frase>balance</frase>
+<frase>spirit</frase>
+<frase>splendor</frase>
+<frase>future</frase>
+<frase>empire</frase>
+<frase>silence</frase>
+<frase>dream</frase>
+<frase>whisper</frase>
+</cat14>
+<cat17>
+<frase>aura</frase>
+<frase>writing</frase>
+<frase>poem</frase>
+<frase>mouth</frase>
+<frase>head</frase>
+<frase>wound</frase>
+<frase>throat</frase>
+<frase>iris</frase>
+<frase>language</frase>
+<frase>hand</frase>
+<frase>eyelid</frase>
+<frase>voice</frase>
+<frase>blindness</frase>
+<frase>foliage</frase>
+<frase>freshness</frase>
+<frase>darkness</frase>
+<frase>health</frase>
+</cat17>
+<cat15>
+<frase>files</frase>
+<frase>stars</frase>
+<frase>gestures</frase>
+<frase>worlds</frase>
+<frase>men</frase>
+<frase>swamps</frase>
+<frase>havens</frase>
+<frase>gods</frase>
+<frase>killers</frase>
+<frase>coyotes</frase>
+<frase>clergy</frase>
+<frase>dictators</frase>
+<frase>generals</frase>
+<frase>heroes</frase>
+<frase>horrors</frase>
+<frase>invaders</frase>
+<frase>wizards</frase>
+<frase>messengers</frase>
+<frase>monsters</frase>
+<frase>browsers</frase>
+<frase>princeses</frase>
+<frase>prophets</frase>
+<frase>Kings</frase>
+<frase>servants</frase>
+<frase>figures</frase>
+</cat15>
+<cat16>
+<frase>blooming</frase>
+<frase>mumbling</frase>
+<frase>breaking</frase>
+<frase>ripping</frase>
+<frase>playing</frase>
+</cat16>
+<cat191>
+   <frase>open,</frase>
+   <frase>boring,</frase>
+   <frase>absolute,</frase>
+   <frase>absurd,</frase>
+   <frase>admirable,</frase>
+   <frase>asleep,</frase>
+   <frase>yellow,</frase>
+   <frase>bitter,</frase>
+   <frase>angelic,</frase>
+   <frase>anxious,</frase>
+   <frase>off,</frase>
+   <frase>rotten,</frase>
+   <frase>grin,</frase>
+   <frase>artificial,</frase>
+   <frase>stunned,</frase>
+   <frase>atrocious,</frase>
+   <frase>blue,</frase>
+   <frase>beautiful,</frase>
+   <frase>white,</frase>
+   <frase>chaotic,</frase>
+   <frase>rotten,</frase>
+   <frase>chaste,</frase>
+   <frase>blind,</frase>
+   <frase>cynical,</frase>
+   <frase>gray,</frase>
+   <frase>angry,</frase>
+   <frase>comic,</frase>
+   <frase>decided,</frase>
+   <frase>disconnected,</frase>
+   <frase>dissatisfied,</frase>
+   <frase>unknown,</frase>
+   <frase>disheveled,</frase>
+   <frase>rambling,</frase>
+   <frase>cluttered,</frase>
+   <frase>misshapen,</frase>
+   <frase>dispersed,</frase>
+   <frase>divine,</frase>
+   <frase>painful,</frase>
+   <frase>gold,</frase>
+   <frase>ephemeral,</frase>
+   <frase>electric,</frase>
+   <frase>embryonic,</frase>
+   <frase>dazed,</frase>
+   <frase>entrenched,</frase>
+   <frase>dark,</frase>
+   <frase>essential,</frase>
+   <frase>strange,</frase>
+   <frase>eternal,</frase>
+   <frase>extinct,</frase>
+   <frase>fatal,</frase>
+   <frase>closed,</frase>
+   <frase>wounded,</frase>
+   <frase>fierce,</frase>
+   <frase>faithful,</frase>
+   <frase>frantic,</frase>
+   <frase>cold,</frase>
+   <frase>furious,</frase>
+   <frase>futile,</frase>
+   <frase>cold,</frase>
+   <frase>hesitant,</frase>
+   <frase>honest,</frase>
+   <frase>honored,</frase>
+   <frase>human,</frase>
+   <frase>wet,</frase>
+   <frase>humble,</frase>
+   <frase>ignored,</frase>
+   <frase>unknown,</frase>
+   <frase>deceived,</frase>
+   <frase>lit,</frase>
+   <frase>immense,</frase>
+   <frase>impalpable,</frase>
+   <frase>impenetrable,</frase>
+   <frase>undisturbed,</frase>
+   <frase>unblemished,</frase>
+   <frase>unalterable,</frase>
+   <frase>unscathed,</frase>
+   <frase>indifferent,</frase>
+   <frase>inert,</frase>
+   <frase>inexorable,</frase>
+   <frase>inexplicable,</frase>
+   <frase>infinite,</frase>
+   <frase>innocent,</frase>
+   <frase>intact,</frase>
+   <frase>unlikely,</frase>
+   <frase>invisible,</frase>
+   <frase>unreal,</frase>
+   <frase>slow,</frase>
+   <frase>released,</frase>
+   <frase>free,</frase>
+   <frase>luxurious,</frase>
+   <frase>magnetic,</frase>
+   <frase>mechanical,</frase>
+   <frase>meticulous,</frase>
+   <frase>tiny,</frase>
+   <frase>black,</frase>
+   <frase>clear,</frase>
+   <frase>naked,</frase>
+   <frase>hidden,</frase>
+   <frase>shiny,</frase>
+   <frase>purple,</frase>
+   <frase>secret,</frase>
+   <frase>secular,</frase>
+   <frase>submissive,</frase>
+   <frase>processed,</frase>
+   <frase>cloudy,</frase>
+   <frase>universal,</frase>
+   <frase>vast,</frase>
+   <frase>green,</frase>
+   <frase>visible,</frase>
+</cat191>
+<cat19>
+   <frase>open</frase>
+   <frase>boring</frase>
+   <frase>absolute</frase>
+   <frase>absurd</frase>
+   <frase>admirable</frase>
+   <frase>alien</frase>
+   <frase>yellow</frase>
+   <frase>bitter</frase>
+   <frase>angelic</frase>
+   <frase>anxious</frase>
+   <frase>rotten</frase>
+   <frase>grin</frase>
+   <frase>artificial</frase>
+   <frase>amazed</frase>
+   <frase>atrocious</frase>
+   <frase>blue</frase>
+   <frase>beautiful</frase>
+   <frase>white</frase>
+   <frase>chaotic</frase>
+   <frase>rotten</frase>
+   <frase>chaste</frase>
+   <frase>blind</frase>
+   <frase>cynical</frase>
+   <frase>gray</frase>
+   <frase>angry</frase>
+   <frase>comic</frase>
+   <frase>condensed</frase>
+   <frase>decided</frase>
+   <frase>disconnected</frase>
+   <frase>dissatisfied</frase>
+   <frase>unknown</frase>
+   <frase>shaggy</frase>
+   <frase>dispersed</frase>
+   <frase>divine</frase>
+   <frase>golden</frase>
+   <frase>painful</frase>
+   <frase>ephemeral</frase>
+   <frase>electric</frase>
+   <frase>embryonic</frase>
+   <frase>dazzled</frase>
+   <frase>entrenched</frase>
+   <frase>dark</frase>
+   <frase>essential</frase>
+   <frase>strange</frase>
+   <frase>eternal</frase>
+   <frase>extinct</frase>
+   <frase>fatal</frase>
+   <frase>injured</frase>
+   <frase>fierce</frase>
+   <frase>true</frase>
+   <frase>frenetic</frase>
+   <frase>cold</frase>
+   <frase>furious</frase>
+   <frase>futile</frase>
+   <frase>icy</frase>
+   <frase>hesitant</frase>
+   <frase>honest</frase>
+   <frase>honored</frase>
+   <frase>human</frase>
+   <frase>wet</frase>
+   <frase>humble</frase>
+   <frase>ignored</frase>
+   <frase>ignoto</frase>
+   <frase>deceived</frase>
+   <frase>lit</frase>
+   <frase>huge</frase>
+   <frase>elusive</frase>
+   <frase>impenetrable</frase>
+   <frase>unperturbed</frase>
+   <frase>unblemished</frase>
+   <frase>unalterable</frase>
+   <frase>unscathed</frase>
+   <frase>indifferent</frase>
+   <frase>inert</frase>
+   <frase>inexorable</frase>
+   <frase>inexplicable</frase>
+   <frase>infinite</frase>
+   <frase>innocent</frase>
+   <frase>unlikely</frase>
+   <frase>invisible</frase>
+   <frase>unreal</frase>
+   <frase>slow</frase>
+   <frase>released</frase>
+   <frase>luxurious</frase>
+   <frase>magnetic</frase>
+   <frase>mechanical</frase>
+   <frase>meticulous</frase>
+   <frase>tiny</frase>
+   <frase>black</frase>
+   <frase>clear</frase>
+   <frase>naked</frase>
+   <frase>hidden</frase>
+   <frase>shiny</frase>
+   <frase>purple</frase>
+   <frase>secret</frase>
+   <frase>secular</frase>
+   <frase>submissive</frase>
+   <frase>underground</frase>
+   <frase>transformed</frase>
+   <frase>cloudy</frase>
+   <frase>universal</frase>
+   <frase>wide</frase>
+   <frase>green</frase>
+   <frase>visible</frase>
+</cat19>
+<cat18>
+   <frase>shakes</frase>
+   <frase>wakes</frase>
+   <frase>spreads</frase>
+   <frase>bolsters</frase>
+   <frase>appears</frase>
+   <frase>presses</frase>
+   <frase>burns</frase>
+   <frase>advances</frase>
+   <frase>chats</frase>
+   <frase>falls</frase>
+   <frase>walks</frase>
+   <frase>ceases</frase>
+   <frase>cries</frase>
+   <frase>rains</frase>
+   <frase>calls</frase>
+   <frase>confesses</frase>
+   <frase>builds</frase>
+   <frase>runs</frase>
+   <frase>grows</frase>
+   <frase>falls</frase>
+   <frase>disappears</frase>
+   <frase>devours</frase>
+   <frase>dissolves</frase>
+   <frase>sleeps</frase>
+   <frase>toasts</frase>
+   <frase>echoes</frase>
+   <frase>enters</frase>
+   <frase>involves</frase>
+   <frase>stands</frase>
+   <frase>runs</frase>
+   <frase>listens</frase>
+   <frase>exclaims</frase>
+   <frase>requires</frase>
+   <frase>gestures</frase>
+   <frase>screams</frase>
+   <frase>breaks</frase>
+   <frase>fights</frase>
+   <frase>grinds</frase>
+   <frase>obeys</frase>
+   <frase>hears</frase>
+   <frase>stops</frase>
+   <frase>penetrates</frase>
+   <frase>persists</frase>
+   <frase>weighs</frase>
+   <frase>burns</frase>
+   <frase>complains</frase>
+   <frase>calls</frase>
+   <frase>resumes</frase>
+   <frase>cuds</frase>
+   <frase>resists</frase>
+   <frase>raises</frase>
+   <frase>revolves</frase>
+   <frase>smiles</frase>
+   <frase>gnaws</frase>
+   <frase>jumps</frase>
+   <frase>suffers</frase>
+   <frase>hooks</frase>
+   <frase>dreams</frase>
+   <frase>smiles</frase>
+   <frase>insists</frase>
+   <frase>transforms</frase>
+   <frase>comes</frase>
+</cat18>
+<cat20>
+   <frase>an_open</frase>
+   <frase>a_boring</frase>
+   <frase>an_absolute</frase>
+   <frase>an_absurd</frase>
+   <frase>an_admirable</frase>
+   <frase>an_alien</frase>
+   <frase>a_yellow</frase>
+   <frase>a_bitter</frase>
+   <frase>an_angelic</frase>
+   <frase>an_anxious</frase>
+   <frase>a_rotten</frase>
+   <frase>a_grin</frase>
+   <frase>an_artificial</frase>
+   <frase>an_amazed</frase>
+   <frase>an_atrocious</frase>
+   <frase>a_blue</frase>
+   <frase>a_beautiful</frase>
+   <frase>a_white</frase>
+   <frase>a_chaotic</frase>
+   <frase>a_rotten</frase>
+   <frase>a_chaste</frase>
+   <frase>a_blind</frase>
+   <frase>a_cynical</frase>
+   <frase>a_gray</frase>
+   <frase>an_angry</frase>
+   <frase>a_comic</frase>
+   <frase>a_condensed</frase>
+   <frase>a_decided</frase>
+   <frase>a_disconnected</frase>
+   <frase>a_dissatisfied</frase>
+   <frase>an_unknown</frase>
+   <frase>a_shaggy</frase>
+   <frase>a_dispersed</frase>
+   <frase>a_divine</frase>
+   <frase>a_golden</frase>
+   <frase>a_painful</frase>
+   <frase>an_ephemeral</frase>
+   <frase>an_electric</frase>
+   <frase>an_embryonic</frase>
+   <frase>a_dazzled</frase>
+   <frase>an_entrenched</frase>
+   <frase>a_dark</frase>
+   <frase>an_essential</frase>
+   <frase>a_strange</frase>
+   <frase>an_eternal</frase>
+   <frase>an_extinct</frase>
+   <frase>a_fatal</frase>
+   <frase>an_injured</frase>
+   <frase>a_fierce</frase>
+   <frase>a_true</frase>
+   <frase>a_frenetic</frase>
+   <frase>a_cold</frase>
+   <frase>a_furious</frase>
+   <frase>a_futile</frase>
+   <frase>an_icy</frase>
+   <frase>an_hesitant</frase>
+   <frase>an_honest</frase>
+   <frase>an_honored</frase>
+   <frase>an_human</frase>
+   <frase>a_wet</frase>
+   <frase>an_humble</frase>
+   <frase>an_ignored</frase>
+   <frase>an_ignoto</frase>
+   <frase>a_deceived</frase>
+   <frase>a_lit</frase>
+   <frase>an_huge</frase>
+   <frase>an_elusive</frase>
+   <frase>an_impenetrable</frase>
+   <frase>an_unperturbed</frase>
+   <frase>an_unblemished</frase>
+   <frase>an_unalterable</frase>
+   <frase>an_unscathed</frase>
+   <frase>an_indifferent</frase>
+   <frase>an_inert</frase>
+   <frase>an_inexorable</frase>
+   <frase>an_inexplicable</frase>
+   <frase>an_infinite</frase>
+   <frase>an_innocent</frase>
+   <frase>an_unlikely</frase>
+   <frase>an_invisible</frase>
+   <frase>an_unreal</frase>
+   <frase>a_slow</frase>
+   <frase>a_released</frase>
+   <frase>a_luxurious</frase>
+   <frase>a_magnetic</frase>
+   <frase>a_mechanical</frase>
+   <frase>a_meticulous</frase>
+   <frase>a_tiny</frase>
+   <frase>a_black</frase>
+   <frase>a_clear</frase>
+   <frase>a_naked</frase>
+   <frase>an_hidden</frase>
+   <frase>a_shiny</frase>
+   <frase>a_purple</frase>
+   <frase>a_secret</frase>
+   <frase>a_secular</frase>
+   <frase>a_submissive</frase>
+   <frase>an_underground</frase>
+   <frase>a_transformed</frase>
+   <frase>a_cloudy</frase>
+   <frase>an_universal</frase>
+   <frase>a_wide</frase>
+   <frase>a_green</frase>
+   <frase>a_visible</frase>
+</cat20>
+</categorias>
+</poema>
